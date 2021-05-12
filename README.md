@@ -2,6 +2,7 @@ WallpapersApp-MVVM
 
 Technology used :
 
+
 1. Firebase
     Firebase is a service from Google that is used to make it easier for application developers to develop applications. With Firebase, 
     application developers can focus on developing applications without having to give a big effort. Two interesting features of Firebase are Firebase Remote Config and Firebase Realtime Database. In addition, there are supporting features for 
