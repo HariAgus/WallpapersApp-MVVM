@@ -10,7 +10,6 @@ Technology used :
     https://firebase.google.com/
      
 2. DarkMode
-    Dark theme
     Dark theme is available in Android 10 (API level 29) and higher. It has many benefits:
 
     Can reduce power usage by a significant amount (depending on the device’s screen technology).
