@@ -18,7 +18,6 @@ Technology used :
     Dark theme applies to both the Android system UI and apps running on the device.
 
     There are three ways to enable Dark theme in Android 10 (API level 29) and higher:
-
     Use the system setting (Settings -> Display -> Theme) to enable Dark theme.
     Use the Quick Settings tile to switch themes from the notification tray (once enabled).
     On Pixel devices, selecting the Battery Saver mode enables Dark theme at the same time. Other OEMs may or may not support this behavior.
